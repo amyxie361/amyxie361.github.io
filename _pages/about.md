@@ -14,7 +14,8 @@ redirect_from:
 
 - Before my Ph.D. program, I was a undergraduate student majored in Mathematics at Fudan University in Shanghai, China.
 
+### News
+ 
 - 2020-01-10: As the first author, I have one paper accepted to *WWW 2020*. Let's meet and talk in Taipei!
 - 2019-06-01: As the first author, I have a demo papers accepted to *NAACL 2019*. I had an exciting travel to Minneapolis, USA from June 1st to June 7th.
-- 2019-06-01: Try our open domain question answer bot demo and [add](https://slack.com/apps/AJ3A5LMS5-dodo?next_id=0) it to your slack workspace. More details for this demo can be found [here](https://amyxie361.github.io/BERTserini/).
 - 2018-11-15: I did a internship in RSVP.ai, where I spent much time on the paraphrase generation, question generation and open domain question answering.

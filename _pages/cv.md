@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Natural Language Processing, the University of Waterloo, Canada, 2018-2022 (expected)
+* B.S. in Mathematics and Applied Mathematics, Fudan University, China, 2014-2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov 2018 - April 2020 (expected): Research Assistant
+  * RSVP.ai, Waterloo, ON, Canada
+  * Duties included: Open-domain Question Answering, Paraphrase Generation, Question Generation
+  * Supervisor: Dr. Luchen Tan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2018 - June 2018 : Algorithm Research Intern
+  * Yitu-Tech, Shanghai, China
+  * Duties included: Car detection
+  * Supervisor: Yanbin Kang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * PyTorch
+  * TensorFlow
+* Git
+* Bash
+* LaTeX
+* C/C++
+* MATLAB
 
 Publications
 ======
@@ -54,6 +55,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
