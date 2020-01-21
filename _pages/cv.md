@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 You can download my full CV [here](http://amyxie361.github.io/files/cv.pdf)
+
+
 Education
 ======
 * Ph.D in Natural Language Processing, the University of Waterloo, Canada, 2018-2022 (expected)
