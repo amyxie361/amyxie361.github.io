@@ -16,6 +16,8 @@ redirect_from:
 
 ### News
 
+- 2021-02-04: I have a paper accepted to *AAAI 2021*.
+- 2020-10-01: The source code for BERTserini is officially open-sourced [here](https://github.com/rsvp-ai/bertserini)!
 - 2020-08-18: I start a remote intership at Amazon Lex.
 - 2020-01-10: As the first author, I have one paper accepted to *WWW 2020*. Let's meet and talk in Taipei!
 - 2019-06-01: As the first author, I have a demo papers accepted to *NAACL 2019*. I had an exciting travel to Minneapolis, USA from June 1st to June 7th.
