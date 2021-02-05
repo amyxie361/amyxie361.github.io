@@ -8,7 +8,9 @@ venue: 'NAACL 2019, demo track'
 paperurl: 'https://www.aclweb.org/anthology/N19-4013'
 ---
 
-This paper is about open domain question answering. Directly concat an Information Retriever (Anserini) with a BERT reader.'
+Wei Yang, **Yuqing Xie**, Aileen Lin, Xingyu Li, Luchen Tan, Kun Xiong, Ming Li, and Jimmy Lin
+
+This paper is on open domain question answering. Directly concat an Information Retriever (Anserini) with a BERT reader.'
 
 [Download paper here](https://www.aclweb.org/anthology/N19-4013.pdf)
 
