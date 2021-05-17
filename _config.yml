@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuqing (Sherry) Xie 谢彧晴"
+title                    : "Yuqing Xie"
 title_separator          : "-"
-name                     : &name "Yuqing (Sherry) Xie 谢彧晴"
+name                     : &name "Yuqing Xie "
 description              : &description "Ph.D. Student in CS at the University of Waterloo"
 url                      : https://amyxie361.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

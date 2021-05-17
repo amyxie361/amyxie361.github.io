@@ -19,12 +19,17 @@ Education
 
 Work experience
 ======
-* Nov 2018 - April 2020 (expected): Research Assistant
+* Aug. 2020 - April 2021 : Applied Scientist Intern
+  *  Amazon AWS AI, Remote - Seattle, USA
+  * Duties included: Regression-free Model Update Benchmarking, Algorithm Design and Analyzing.
+  * Manager and Mentor: Dr. Yi Zhang, Yi-an Lai
+
+* Nov. 2018 - April 2020 (expected): Research Assistant
   * RSVP.ai, Waterloo, ON, Canada
   * Duties included: Open-domain Question Answering, Paraphrase Generation, Question Generation
-  * Supervisor: Dr. Luchen Tan
+  * Supervisors: Dr. Luchen Tan, Prof. Jimmy Lin
 
-* Feb 2018 - June 2018 : Algorithm Research Intern
+* Feb. 2018 - June 2018 : Algorithm Research Intern
   * Yitu-Tech, Shanghai, China
   * Duties included: Car detection
   * Supervisor: Yanbin Kang
