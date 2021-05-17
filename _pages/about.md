@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-- I am a Ph.D. student in the David R. Cheriton School of Computer Science at the University of Waterloo since 2018, and am also a partime researcher at [RSVP.ai](https://rsvp.ai/en/#/index), a start up focusing on NLP. I am co-supervised by [Prof. Ming Li](https://cs.uwaterloo.ca/~mli/) and [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). 
+- I am a Ph.D. student in the David R. Cheriton School of Computer Science at the University of Waterloo starting from 2018, and am also a partime researcher at [RSVP.ai](https://rsvp.ai/en/#/index), a start up focusing on NLP. I am co-supervised by [Prof. Ming Li](https://cs.uwaterloo.ca/~mli/) and [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). 
 
 - I am working on Natural Language Processing problems, especially on Question Answering, Information Retrieval and Machine Learning procedures. 
 
-- Before my Ph.D. program, I was a undergraduate student majored in Mathematics at Fudan University in Shanghai, China.
+- Before my Ph.D. program, I was a undergraduate student majoring in Mathematics at Fudan University in Shanghai, China.
 
 ### News
 
-- 2021-05-07: My long paper done with Amazon AWS AI was accepted by ACL 21' main conference.
+- 2021-05-07: My long paper written during my internship with Amazon AWS AI was accepted by *ACL 2021* main conference.
 - 2021-02-04: I have a paper accepted to *AAAI 2021*.
 - 2020-10-01: The source code for BERTserini is officially open-sourced [here](https://github.com/rsvp-ai/bertserini)!
 - 2020-08-18: I start a remote intership at Amazon AWS AI.
