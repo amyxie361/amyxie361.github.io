@@ -5,10 +5,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Blog Posts"
-    url: https://github.com/amyxie361/Blog/issues
-    
+
   - title: "CV"
     url: /cv/
     
+#  - title: "Blog Posts"
+#    url: https://github.com/amyxie361/Blog/issues
